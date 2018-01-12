@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://xrtysoup.com/p/about-us/</loc>
+    <lastmod>2018-01-12T01:10:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xrtysoup.com/aquaponics/</loc>
+    <lastmod>2017-12-20T16:30:02+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xrtysoup.com/understanding-back-muscle-spasms/</loc>
+    <lastmod>2017-12-20T15:24:18+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xrtysoup.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://xrtysoup.com/page/</loc>
+    <lastmod>2018-01-12T01:10:57+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://xrtysoup.com/post/</loc>
+    <lastmod>2017-12-20T16:30:02+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://xrtysoup.com/</loc>
+    <lastmod>2018-01-12T01:10:57+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://xrtysoup.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

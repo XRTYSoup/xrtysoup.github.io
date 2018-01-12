@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Soup for Everything</title>
+    <link>http://xrtysoup.com/page/</link>
+    <description>Recent content in Pages on Soup for Everything</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jan 2018 01:10:57 +0700</lastBuildDate>
+    
+	<atom:link href="http://xrtysoup.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>http://xrtysoup.com/p/about-us/</link>
+      <pubDate>Fri, 12 Jan 2018 01:10:57 +0700</pubDate>
+      
+      <guid>http://xrtysoup.com/p/about-us/</guid>
+      <description>Welcome to XRTYSoup. Our mission is present great content as unique as possible for you, of course in an unexpected way.
+Our philosophical message is cover everything. Look at the logo above. It says soup for everything. Not just for the soul, for the body, for your mind, etc. But it’s for everything. Because we are cover everything that doesn’t cover before by mainstream site.
+In today’s modern world, the one thing that is seen all too often is imitation.</description>
+    </item>
+    
+  </channel>
+</rss>
