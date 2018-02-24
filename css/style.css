@@ -152,9 +152,15 @@ nav#TableOfContents li a:hover {
   font-weight: bold;
 }
 
+.toc {
+  margin-top: 2em;
+}
+
 .toc div {
-  height: 400px;
+  height: auto;
+  max-height: 400px;
   overflow-y: scroll;
+  padding-bottom: 1em;
   border: dashed 1px #9e9e9e;
 }
 
